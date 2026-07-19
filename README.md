@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/main/retrato_color.svg" width="450">
+<img src="https://raw.githubusercontent.com/thecris/thecris/main/retrato_color.svg" width="450">
 
 
 <!--
